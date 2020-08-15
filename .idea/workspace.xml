@@ -26,7 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -48,29 +48,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="999" height="189" key="GridCell.Tab.0.bottom" timestamp="1597521919288">
+    <state width="999" height="189" key="GridCell.Tab.0.bottom" timestamp="1597525183639">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="999" height="189" key="GridCell.Tab.0.bottom/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597521919288" />
-    <state width="999" height="189" key="GridCell.Tab.0.center" timestamp="1597521919287">
+    <state width="999" height="189" key="GridCell.Tab.0.bottom/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597525183639" />
+    <state width="999" height="189" key="GridCell.Tab.0.center" timestamp="1597525183637">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="999" height="189" key="GridCell.Tab.0.center/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597521919287" />
-    <state width="999" height="189" key="GridCell.Tab.0.left" timestamp="1597521919285">
+    <state width="999" height="189" key="GridCell.Tab.0.center/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597525183637" />
+    <state width="999" height="189" key="GridCell.Tab.0.left" timestamp="1597525183637">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="999" height="189" key="GridCell.Tab.0.left/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597521919285" />
-    <state width="999" height="189" key="GridCell.Tab.0.right" timestamp="1597521919288">
+    <state width="999" height="189" key="GridCell.Tab.0.left/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597525183637" />
+    <state width="999" height="189" key="GridCell.Tab.0.right" timestamp="1597525183638">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="999" height="189" key="GridCell.Tab.0.right/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597521919288" />
-    <state x="818" y="359" key="SettingsEditor" timestamp="1597521176655">
+    <state width="999" height="189" key="GridCell.Tab.0.right/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597525183638" />
+    <state x="818" y="359" key="SettingsEditor" timestamp="1597524152078">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="818" y="359" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597521176655" />
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597521505786">
+    <state x="818" y="359" key="SettingsEditor/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597524152078" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup" timestamp="1597523890615">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597521505786" />
+    <state x="943" y="329" width="672" height="678" key="search.everywhere.popup/2560.-556.1920.1080/2560.524.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1597523890615" />
   </component>
 </project>
